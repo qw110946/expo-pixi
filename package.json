@@ -1,5 +1,5 @@
 {
-  "name": "expo-pixi",
+  "name": "@qw110946/expo-pixi",
   "version": "1.1.0",
   "sideEffects": true,
   "description": "Tools for using pixi in Expo",
@@ -62,9 +62,6 @@
     "pixi.js": "^4.7.0",
     "expo-asset-utils": "^1.1.0",
     "url": "^0.11.0"
-  },
-  "peerDependencies": {
-    "expo-gl": "~4.0.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.1.1",
